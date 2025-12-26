@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>カラオケで上手側じゃない俺が選ぶ盛り上がれる曲 5選</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background: #222;
+      color: #fff;
+      padding: 24px 16px;
+      text-align: center;
+    }
+    main {
+      max-width: 800px;
+      margin: 24px auto 40px;
+      padding: 0 16px;
+    }
+    .item {
+      background: #fff;
+      border-radius: 8px;
+      padding: 16px 18px;
+      margin-bottom: 16px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+    }
+    .item-rank {
+      font-size: 0.9rem;
+      color: #777;
+      margin-bottom: 4px;
+    }
+    .item-title {
+      font-size: 1.1rem;
+      font-weight: bold;
+      margin: 0 0 8px;
+    }
+    .item-body {
+      font-size: 0.95rem;
+      line-height: 1.7;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: #888;
+      margin: 24px 0 16px;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>カラオケで上手側じゃない俺が選ぶ盛り上がれる曲 5選</h1>
+    <p>平成・昭和の曲が多め。でもそれには理由がある。</p>
+  </header>
+
+  <main>
+    <section class="intro">
+      <p>
+        社会人になると、上司や先輩とカラオケに行く機会が増えるかもしれません。<br>
+        そこで大事なのは「歌のうまさ」よりも「場の空気を読めるか」。<br>
+        実際、俺は大手商社 Ma のインターン最終日の宴会でカラオケを任され、<br>
+        そこで盛り上げたことがきっかけで内定をもらえました。<br>
+        そんな“上手側じゃない俺”が、本当に使える5曲を紹介します。
+      </p>
+    </section>
+
+    <!-- 1 -->
+    <section class="item">
+      <div class="item-rank">第1位</div>
+      <h2 class="item-title">SHAKE / SMAP</h2>
+      <div class="item-body">
+        <p>
+          とにかく明るくて、誰でも知ってる国民的盛り上げ曲。<br>
+          音程が多少ズレても勢いで押し切れる安心感がある。<br>
+          サビの「シェイク！シェイク！」だけ全力でやれば場が温まる。<br>
+          上司世代にも刺さるので、社会人カラオケで最強クラス。<br>
+          迷ったらこれを入れておけば間違いない。
+        </p>
+      </div>
+    </section>
+
+    <!-- 2 -->
+    <section class="item">
+      <div class="item-rank">第2位</div>
+      <h2 class="item-title">青春アミーゴ / 修二と彰</h2>
+      <div class="item-body">
+        <p>
+          デュエット曲なので、誰かを巻き込んで一気に場を作れる。<br>
+          歌いやすいキーで、音程もそこまで難しくない。<br>
+          イントロの時点で「あ〜懐かしい！」と反応が返ってくる。<br>
+          ちょっと踊りながら歌うと一気に“わかってる感”が出る。<br>
+          若手〜30代まで幅広く刺さる万能曲。
+        </p>
+      </div>
+    </section>
+
+    <!-- 3 -->
+    <section class="item">
+      <div class="item-rank">第3位</div>
+      <h2 class="item-title">愛のかたまり / KinKi Kids</h2>
+      <div class="item-body">
+        <p>
+          実は“歌えると評価が爆上がりする”隠れハイパー曲。<br>
+          難しいけど、サビだけ頑張れば「おっ、やるやん」となる。<br>
+          女性からのウケも良く、しっとり枠としても強い。<br>
+          ちょっと背伸びして挑戦するだけで印象が変わる。<br>
+          盛り上げつつ“魅せる”こともできる一曲。
+        </p>
+      </div>
+    </section>
+
+    <!-- 4 -->
+    <section class="item">
+      <div class="item-rank">第4位</div>
+      <h2 class="item-title">チャンカパーナ / NEWS</h2>
+      <div class="item-body">
+        <p>
+          ノリが良くて、振り付けも簡単で盛り上げやすい。<br>
+          歌詞のクセが強いので、多少外しても逆に面白い。<br>
+          サビの掛け声で一体感が生まれるのが強み。<br>
+          「チャンカパーナ！」の一言だけで場が明るくなる。<br>
+          ネタと本気の中間を攻められる便利曲。
+        </p>
+      </div>
+    </section>
+
+    <!-- 5 -->
+    <section class="item">
+      <div class="item-rank">第5位</div>
+      <h2 class="item-title">Love so sweet / 嵐</h2>
+      <div class="item-body">
+        <p>
+          国民的ヒット曲で、知らない人がほぼいない安心枠。<br>
+          キーが優しめで、歌いやすいのもポイント。<br>
+          サビのメロディが綺麗で、声量がなくても形になる。<br>
+          男女問わずウケが良く、場を柔らかくできる。<br>
+          最後の締めに入れると“いい夜だった感”が出る。
+        </p>
+      </div>
+    </section>
+
+    <section class="item">
+      <h2 class="item-title">まとめ</h2>
+      <div class="item-body">
+        <p>
+          1位：SHAKE（SMAP）<br>
+          2位：青春アミーゴ（修二と彰）<br>
+          3位：愛のかたまり（KinKi Kids）<br>
+          4位：チャンカパーナ（NEWS）<br>
+          5位：Love so sweet（嵐）<br><br>
+          あなたの昇進の一歩を、カラオケから手伝えたら嬉しい。
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    しがない男の「○○5選」シリーズ
+  </footer>
+</body>
+</html>
